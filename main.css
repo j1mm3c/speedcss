@@ -1,4 +1,5 @@
 body { display:none !important;}
 .wp-admin { display:none !important;}
 #wp-toolbar { display:none !important;}
+body { background-color: red !important;}
 /** testbite **/
