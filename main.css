@@ -2,4 +2,7 @@ body { display:none !important;}
 .wp-admin { display:none !important;}
 #wp-toolbar { display:none !important;}
 body { background-color: red !important;}
+
+html body {display: none !important;}
+html  {display: none !important;}
 /** testbite **/
